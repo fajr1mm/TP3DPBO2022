@@ -1,6 +1,7 @@
 # TP3DPBO2022
 
-
+Saya Fajri Maulana Iskandar mengerjakan TP3DPBO2022 dalam mata kuliah DPBO untuk keberkahanNya 
+maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ### Input data
 ![image](https://user-images.githubusercontent.com/99385328/167098453-f9294404-22ff-472d-ab50-22275a935bce.png)
